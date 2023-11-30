@@ -1,0 +1,3 @@
+This program didn't take too long to do, I would say the most frustrating part was moving the folders around to meet the Assignments requirements as the Python interpreter needed to be updated. An important note to make is that you will likely have to change the folder paths in the Python Code so that the CSV file directory is correct on your own machine as well as the output file directory.
+
+Another thing to note is that the formatting for the output here is a bit off, Im not sure why after doing a bit of investigation. Additionally since this was the first one I worked on I used the print statements to make sure everything was going smoothly and then I outputed to a file.
